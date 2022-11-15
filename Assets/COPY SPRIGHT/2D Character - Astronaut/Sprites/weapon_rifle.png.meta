@@ -159,13 +159,13 @@ TextureImporter:
       name: rifle_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 448
-        height: 432
+        x: 102
+        y: 152
+        width: 169
+        height: 68
       alignment: 9
       pivot: {x: 0.5, y: 0.295}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 102, y: 150, z: 177, w: 215}
       outline: []
       physicsShape: []
       tessellationDetail: 0
